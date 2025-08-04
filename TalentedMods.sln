@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoAimToggle", "AutoAimToggle\AutoAimToggle.csproj", "{D91B4B12-CBE2-416C-9B40-0191FA1844B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreSpeedLevels", "MoreSpeedLevels\MoreSpeedLevels.csproj", "{6B6128B8-085D-4FE2-B000-343DA98A4F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91B4B12-CBE2-416C-9B40-0191FA1844B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91B4B12-CBE2-416C-9B40-0191FA1844B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91B4B12-CBE2-416C-9B40-0191FA1844B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91B4B12-CBE2-416C-9B40-0191FA1844B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6128B8-085D-4FE2-B000-343DA98A4F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6128B8-085D-4FE2-B000-343DA98A4F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6128B8-085D-4FE2-B000-343DA98A4F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6128B8-085D-4FE2-B000-343DA98A4F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
